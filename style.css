@@ -20,6 +20,7 @@ body{
 
 }
 .navbar h2{
+    
     margin-left: 30px;
     background: -webkit-linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
    -webkit-background-clip: text;
@@ -67,6 +68,7 @@ body{
     line-height: 20px;
 }
 .hero .intro h2{
+    
     background: -webkit-linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
